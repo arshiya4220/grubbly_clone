@@ -13,7 +13,7 @@ This project is a clone of Grubbly Farms(https://grubblyfarms.com/), created usi
 ## Preview
 
 Showcasing the cloned website on different devices.
-https://grubbly.netlify.com
+https://grubbly-clone.netlify.com
 
 ## Getting Started
 
